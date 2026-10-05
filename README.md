@@ -240,13 +240,3 @@ The notebook contains the preprocessing, model training, validation, ensemble co
 
 CryptOQA @ FIRE 2026
 
-## Citation
-
-If you use this implementation or refer to the system in your work, please cite the corresponding CryptOQA @ FIRE 2026 system description paper.
-
-## Repository
-
-The complete implementation is publicly available at:
-
-[https://github.com/rachanabn20/CryptOQA-2026](https://github.com/rachanabn20/CryptOQA-2026)
-
